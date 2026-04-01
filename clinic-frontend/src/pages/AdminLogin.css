@@ -1,0 +1,9 @@
+/* AdminLogin.css */
+.container {
+    display: flex;
+    justify-content: center; /* තිරස් අතට මැදට */
+    align-items: center;     /* සිරස් අතට මැදට */
+    min-height: 100vh;       /* මුළු තිරයේම උස */
+    background-color: #0f172a; 
+    width: 100vw;            /* මුළු තිරයේම පළල */
+}
